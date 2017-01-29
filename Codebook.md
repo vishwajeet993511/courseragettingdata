@@ -12,7 +12,7 @@ The experiments have been video-recorded to label the data manually. The obtaine
 two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
 
 #Variables
-tBodyAccMeanX
+tBodyAccMeanX  <br />
 tBodyAccMeanY
 tBodyAccMeanZ
 tBodyAccStdX
