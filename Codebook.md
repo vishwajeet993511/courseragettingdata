@@ -13,95 +13,95 @@ two sets, where 70% of the volunteers was selected for generating the training d
 
 #Variables
 tBodyAccMeanX  <br />
-tBodyAccMeanY
-tBodyAccMeanZ
-tBodyAccStdX
-tBodyAccStdY
-tBodyAccStdZ
-tGravityAccMeanX
-tGravityAccMeanY
-tGravityAccMeanZ
-tGravityAccStdX
-tGravityAccStdY
-tGravityAccStdZ
-tBodyAccJerkMeanX
-tBodyAccJerkMeanY
-tBodyAccJerkMeanZ
-tBodyAccJerkStdX
-tBodyAccJerkStdY
-tBodyAccJerkStdZ
-tBodyGyroMeanX
-tBodyGyroMeanY
-tBodyGyroMeanZ
-tBodyGyroStdX
-tBodyGyroStdY
-tBodyGyroStdZ
-tBodyGyroJerkMeanX
-tBodyGyroJerkMeanY
-tBodyGyroJerkMeanZ
-tBodyGyroJerkStdX
-tBodyGyroJerkStdY
-tBodyGyroJerkStdZ
-tBodyAccMagMean
-tBodyAccMagStd
-tGravityAccMagMean
-tGravityAccMagStd
-tBodyAccJerkMagMean
-tBodyAccJerkMagStd
-tBodyGyroMagMean
-tBodyGyroMagStd
-tBodyGyroJerkMagMean
-tBodyGyroJerkMagStd
-fBodyAccMeanX
-fBodyAccMeanY
-fBodyAccMeanZ
-fBodyAccStdX
-fBodyAccStdY
-fBodyAccStdZ
-fBodyAccMeanFreqX
-fBodyAccMeanFreqY
-fBodyAccMeanFreqZ
-fBodyAccJerkMeanX
-fBodyAccJerkMeanY
-fBodyAccJerkMeanZ
-fBodyAccJerkStdX
-fBodyAccJerkStdY
-fBodyAccJerkStdZ
-fBodyAccJerkMeanFreqX
-fBodyAccJerkMeanFreqY
-fBodyAccJerkMeanFreqZ
-fBodyGyroMeanX
-fBodyGyroMeanY
-fBodyGyroMeanZ
-fBodyGyroStdX
-fBodyGyroStdY
-fBodyGyroStdZ
-fBodyGyroMeanFreqX
-fBodyGyroMeanFreqY
-fBodyGyroMeanFreqZ
-fBodyAccMagMean
-fBodyAccMagStd
-fBodyAccMagMeanFreq
-fBodyBodyAccJerkMagMean
-fBodyBodyAccJerkMagStd
-fBodyBodyAccJerkMagMeanFreq
-fBodyBodyGyroMagMean
-fBodyBodyGyroMagStd
-fBodyBodyGyroMagMeanFreq
-fBodyBodyGyroJerkMagMean
-fBodyBodyGyroJerkMagStd
-fBodyBodyGyroJerkMagMeanFreq
+tBodyAccMeanY<br />
+tBodyAccMeanZ<br />
+tBodyAccStdX<br />
+tBodyAccStdY<br />
+tBodyAccStdZ<br />
+tGravityAccMeanX<br />
+tGravityAccMeanY<br />
+tGravityAccMeanZ<br />
+tGravityAccStdX<br />
+tGravityAccStdY<br />
+tGravityAccStdZ<br />
+tBodyAccJerkMeanX<br />
+tBodyAccJerkMeanY<br />
+tBodyAccJerkMeanZ<br />
+tBodyAccJerkStdX<br />
+tBodyAccJerkStdY<br />
+tBodyAccJerkStdZ<br />
+tBodyGyroMeanX<br />
+tBodyGyroMeanY<br />
+tBodyGyroMeanZ<br />
+tBodyGyroStdX<br />
+tBodyGyroStdY<br />
+tBodyGyroStdZ<br />
+tBodyGyroJerkMeanX<br />
+tBodyGyroJerkMeanY<br />
+tBodyGyroJerkMeanZ<br />
+tBodyGyroJerkStdX<br />
+tBodyGyroJerkStdY<br />
+tBodyGyroJerkStdZ<br />
+tBodyAccMagMean<br />
+tBodyAccMagStd<br />
+tGravityAccMagMean<br />
+tGravityAccMagStd<br />
+tBodyAccJerkMagMean<br />
+tBodyAccJerkMagStd<br />
+tBodyGyroMagMean<br />
+tBodyGyroMagStd<br />
+tBodyGyroJerkMagMean<br />
+tBodyGyroJerkMagStd<br />
+fBodyAccMeanX<br />
+fBodyAccMeanY<br />
+fBodyAccMeanZ<br />
+fBodyAccStdX<br />
+fBodyAccStdY<br />
+fBodyAccStdZ<br />
+fBodyAccMeanFreqX<br />
+fBodyAccMeanFreqY<br />
+fBodyAccMeanFreqZ<br />
+fBodyAccJerkMeanX<br />
+fBodyAccJerkMeanY<br />
+fBodyAccJerkMeanZ<br />
+fBodyAccJerkStdX<br />
+fBodyAccJerkStdY<br />
+fBodyAccJerkStdZ<br />
+fBodyAccJerkMeanFreqX<br />
+fBodyAccJerkMeanFreqY<br />
+fBodyAccJerkMeanFreqZ<br />
+fBodyGyroMeanX<br />
+fBodyGyroMeanY<br />
+fBodyGyroMeanZ<br />
+fBodyGyroStdX<br />
+fBodyGyroStdY<br />
+fBodyGyroStdZ<br />
+fBodyGyroMeanFreqX<br />
+fBodyGyroMeanFreqY<br />
+fBodyGyroMeanFreqZ<br />
+fBodyAccMagMean<br />
+fBodyAccMagStd<br />
+fBodyAccMagMeanFreq<br />
+fBodyBodyAccJerkMagMean<br />
+fBodyBodyAccJerkMagStd<br />
+fBodyBodyAccJerkMagMeanFreq<br />
+fBodyBodyGyroMagMean<br />
+fBodyBodyGyroMagStd<br />
+fBodyBodyGyroMagMeanFreq<br />
+fBodyBodyGyroJerkMagMean<br />
+fBodyBodyGyroJerkMagStd<br />
+fBodyBodyGyroJerkMagMeanFreq<br />
 
 
 #files
-features.txt
-activity_labels.txt
-subject_train.txt
-x_train.txt
-y_train.txt
-subject_test.txt
-x_test.txt
-y_test.txt
+features.txt<br />
+activity_labels.tx<br />t
+subject_train.txt<br />
+x_train.txt<br />
+y_train.txt<br />
+subject_test.txt<br />
+x_test.txt<br />
+y_test.txt<br />
 
 #process of refining data
 R code implement the following
